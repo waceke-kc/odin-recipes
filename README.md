@@ -1,2 +1,2 @@
 # odin-recipes
-The HTML asignment from the odin project
+The HTML assignment from the odin project thatinvolves creatig a recipes page
